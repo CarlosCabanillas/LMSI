@@ -1,0 +1,19 @@
+.ImagenSuperior
+{
+	width: 620px;
+	height: 40px;
+}
+
+.ImagenInferior
+{
+	width: 200px;
+	height: 200px;
+
+}
+
+.TextoImagen
+{
+	font-size: 12pt;
+	color: white;
+	background-color: green;
+}

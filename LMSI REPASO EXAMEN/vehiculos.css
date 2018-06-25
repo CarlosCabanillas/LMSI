@@ -1,0 +1,25 @@
+.VentaTitular
+{
+	font-size: 20pt;
+	color: white;
+	background-color: blue;
+	width: 100%
+}
+
+.VentaDetalle
+{
+	font-size: 16pt;
+	color: red;
+	background-color: yellow;
+	margin: 20px;
+}
+
+.VentaPrecio
+{
+
+	font-size: 12pt;
+	color: orange;
+	background-color: red;
+	font-weight: bold;
+
+}
